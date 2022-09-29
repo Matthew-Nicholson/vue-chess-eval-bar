@@ -16,5 +16,5 @@ Then use it like any other vue component:
 **transitionDuration**: { type: String, default: "2s" }      
 **whiteColor**: { type: String, default: "#F7F7FF" }    
 **blackColor**: { type: String, default: "#131112" }    
-**evalRange**: { type: [Number, String], default: 5 //ie. -5 shows all black and +5 shows all white eval.    
+**evalRange**: { type: [Number, String], default: 5 } //ie. -5 shows all black and +5 shows all white eval.    
 **evaluation**: { type: [Number, String], default: 0.0 }  
