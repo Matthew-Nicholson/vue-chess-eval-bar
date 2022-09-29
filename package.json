@@ -1,0 +1,14 @@
+{
+  "name": "vue-chess-evaluation-bar",
+  "version": "1.1.0",
+  "description": "Chess evaluation bar component for Vue 3.",
+  "private": false,
+  "main": "EvalBar.vue",
+  "keywords": [
+    "chess",
+    "eval",
+    "evaluation"
+  ],
+  "author": "Matt Nicholson (matthewn1991@gmail.com)",
+  "license": "MIT"
+}
